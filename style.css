@@ -29,13 +29,15 @@
     width: 100%;
     padding-right: 5px;
     height: 5rem;
-    font-size:1em;
+    font-size:2em;
+    font-family: 'Roboto', sans-serif;
   }
 
   .btn{
     font-size:1em;
     height: 65px;
     border:1px solid black;
+    font-family: 'Roboto', sans-serif;
 }
 
 .btn:hover{
